@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+    width: 80px;
+}
+footer img{
+    width: 100px;
+}
+footer{
+    font-size: 16px;
+}
+h3{
+    font-size: 21px;
+}
+h5{
+    font-size: 20px;
+}
+.card-text-secondary2{
+    font-size: 13px;
+}
